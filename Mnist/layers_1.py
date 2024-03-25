@@ -3,7 +3,6 @@ import numpy as np
 import struct
 import os
 import time
-import matplotlib
 
 def show_matrix(mat, name):
     #print(name + str(mat.shape) + ' mean %f, std %f' % (mat.mean(), mat.std()))
